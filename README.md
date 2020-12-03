@@ -1,7 +1,8 @@
-### Hi there 👋
+<img src="https://github-readme-linkedin.vercel.app/user?username=mohammedamrkassim" />
 
 ![Mohammed's github stats](https://github-readme-stats.vercel.app/api?username=MoAmr&count_private=true&show_icons=true&theme=gotham)
-[![Mohammed's github stats](https://github-readme-stats.vercel.app/api?username=MoAmr)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
