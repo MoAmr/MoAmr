@@ -16,7 +16,7 @@
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 - 🇪🇬 +27 yrs. of existence-human being ツ who enjoys pizza, sports and music.
-- I'm aspiring 🔭️ Java Developer.
+- I'm a Java Developer.
 - Currently learning 🌱 **Scala**
 - I work at Vodafone Egypt. 
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
