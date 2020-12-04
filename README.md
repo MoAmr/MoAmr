@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-<a href="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/LICENCE">
+<a href="https://github.com/MoAmr/MoAmr/blob/master/LICENCE">
 <img alt="Licence" src="https://img.shields.io/github/license/MoAmr/MoAmr?color=brightgreen&label=LICENCE&logo=MIT"/>
 </a>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=MoAmr&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
@@ -18,9 +18,10 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- I'm aspiring 🔭️ Java Developer currently learning 🌱 **Scala**.
-- I work at Vodafone Egypt
-- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
+⇝ +27 yrs. of existence-human being ツ who enjoys pizza, sports and music.
+⇝ I'm aspiring 🔭️ Java Developer currently learning 🌱 **Scala**.
+⇝ I work at Vodafone Egypt 
+⇝ I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 
@@ -66,7 +67,8 @@
 </a> <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a>
 </a> <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a> -->
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) from U+1F1EA, U+1F1EC
+[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 
 <p align="center">
 <img src="https://img.shields.io/badge/made%20with%20%E2%9D%A4%20in%20-Egypt-ff0019.svg?labelColor=black&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjI1IDE1MCI+CjxyZWN0IHdpZHRoPSIyMjUiIGhlaWdodD0iMTUwIiBmaWxsPSIjZjkzIi8+CjxyZWN0IHdpZHRoPSIyMjUiIGhlaWdodD0iNTAiIHk9IjUwIiBmaWxsPSIjZmZmIi8+CjxyZWN0IHdpZHRoPSIyMjUiIGhlaWdodD0iNTAiIHk9IjEwMCIgZmlsbD0iIzEyODgwNyIvPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMTIuNSw3NSkiPgo8Y2lyY2xlIHI9IjIwIiBmaWxsPSIjMDA4Ii8+CjxjaXJjbGUgcj0iMTcuNSIgZmlsbD0iI2ZmZiIvPgo8Y2lyY2xlIHI9IjMuNSIgZmlsbD0iIzAwOCIvPgo8ZyBpZD0iZCI+CjxnIGlkPSJjIj4KPGcgaWQ9ImIiPgo8ZyBpZD0iYSI+CjxjaXJjbGUgcj0iMC44NzUiIGZpbGw9IiMwMDgiIHRyYW5zZm9ybT0icm90YXRlKDcuNSkgdHJhbnNsYXRlKDE3LjUpIi8+CjxwYXRoIGZpbGw9IiMwMDgiIGQ9Ik0gMCwxNy41IDAuNiw3IEMgMC42LDcgMCwyIDAsMiAwLDIgLTAuNiw3IC0wLjYsNyBMIDAsMTcuNSB6Ii8+CjwvZz4KPHVzZSB4bGluazpocmVmPSIjYSIgdHJhbnNmb3JtPSJyb3RhdGUoMTUpIi8+CjwvZz4KPHVzZSB4bGluazpocmVmPSIjYiIgdHJhbnNmb3JtPSJyb3RhdGUoMzApIi8+CjwvZz4KPHVzZSB4bGluazpocmVmPSIjYyIgdHJhbnNmb3JtPSJyb3RhdGUoNjApIi8+CjwvZz4KPHVzZSB4bGluazpocmVmPSIjZCIgdHJhbnNmb3JtPSJyb3RhdGUoMTIwKSIvPgo8dXNlIHhsaW5rOmhyZWY9IiNkIiB0cmFuc2Zvcm09InJvdGF0ZSgtMTIwKSIvPgo8L2c+Cjwvc3ZnPgo="/>
