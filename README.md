@@ -8,9 +8,6 @@
 </a>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=MoAmr&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/MoAmr/MoAmr?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
- <a href="https://github.com/MoAmr/MoAmr/actions">
-   <img alt="github-activity" src="https://github.com/MoAmr/MoAmr/workflows/update-gh-activity/badge.svg">
-  </a>
 </p>
 </br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
@@ -18,10 +15,10 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-⇝ +27 yrs. of existence-human being ツ who enjoys pizza, sports and music.
-⇝ I'm aspiring 🔭️ Java Developer currently learning 🌱 **Scala**.
-⇝ I work at Vodafone Egypt 
-⇝ I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
+- +27 yrs. of existence-human being ツ who enjoys pizza, sports and music.
+- I'm aspiring 🔭️ Java Developer currently learning 🌱 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white)
+- I work at Vodafone Egypt. 
+- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 
@@ -43,16 +40,27 @@
 
 ## 🛠️ **Languages & Tools:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=white)
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
+![Angular.js](https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white)
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Vim](https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim)
 ![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🌐 **Reach out to me:** ️
 
@@ -67,14 +75,13 @@
 </a> <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a>
 </a> <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a> -->
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) from U+1F1EA, U+1F1EC
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 
 <p align="center">
-<img src="https://img.shields.io/badge/made%20with%20%E2%9D%A4%20in%20-Egypt-ff0019.svg?labelColor=black&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjI1IDE1MCI+CjxyZWN0IHdpZHRoPSIyMjUiIGhlaWdodD0iMTUwIiBmaWxsPSIjZjkzIi8+CjxyZWN0IHdpZHRoPSIyMjUiIGhlaWdodD0iNTAiIHk9IjUwIiBmaWxsPSIjZmZmIi8+CjxyZWN0IHdpZHRoPSIyMjUiIGhlaWdodD0iNTAiIHk9IjEwMCIgZmlsbD0iIzEyODgwNyIvPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMTIuNSw3NSkiPgo8Y2lyY2xlIHI9IjIwIiBmaWxsPSIjMDA4Ii8+CjxjaXJjbGUgcj0iMTcuNSIgZmlsbD0iI2ZmZiIvPgo8Y2lyY2xlIHI9IjMuNSIgZmlsbD0iIzAwOCIvPgo8ZyBpZD0iZCI+CjxnIGlkPSJjIj4KPGcgaWQ9ImIiPgo8ZyBpZD0iYSI+CjxjaXJjbGUgcj0iMC44NzUiIGZpbGw9IiMwMDgiIHRyYW5zZm9ybT0icm90YXRlKDcuNSkgdHJhbnNsYXRlKDE3LjUpIi8+CjxwYXRoIGZpbGw9IiMwMDgiIGQ9Ik0gMCwxNy41IDAuNiw3IEMgMC42LDcgMCwyIDAsMiAwLDIgLTAuNiw3IC0wLjYsNyBMIDAsMTcuNSB6Ii8+CjwvZz4KPHVzZSB4bGluazpocmVmPSIjYSIgdHJhbnNmb3JtPSJyb3RhdGUoMTUpIi8+CjwvZz4KPHVzZSB4bGluazpocmVmPSIjYiIgdHJhbnNmb3JtPSJyb3RhdGUoMzApIi8+CjwvZz4KPHVzZSB4bGluazpocmVmPSIjYyIgdHJhbnNmb3JtPSJyb3RhdGUoNjApIi8+CjwvZz4KPHVzZSB4bGluazpocmVmPSIjZCIgdHJhbnNmb3JtPSJyb3RhdGUoMTIwKSIvPgo8dXNlIHhsaW5rOmhyZWY9IiNkIiB0cmFuc2Zvcm09InJvdGF0ZSgtMTIwKSIvPgo8L2c+Cjwvc3ZnPgo="/>
 
 
-<!-- <img src="https://madewithlove.now.sh/in?heart=true&colorA=%23000000&colorB=%23dc0000&template=for-the-badge️" alt="Made with love from Egypt️"> -->
+<img src="https://madewithlove.now.sh/in?heart=true&colorA=%23000000&colorB=%23dc0000&template=for-the-badge️" alt="Made with love from Egypt️">
 </p>
 
 <!-- Links of Definitions -->
