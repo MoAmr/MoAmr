@@ -1,4 +1,4 @@
-# <p align="center">️ **Hello!!<img src="https://raw.githubusercontent.com/MoAmr/MoAmr/master/assets/wave.gif" alt="waving hand" width="30px">I'm Mohammed Amr** 🎯️🚀️</p>
+# <p align="center">️ **Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm Mohammed Amr** 🎯️🚀️</p>
 
 ---
 
@@ -18,8 +18,8 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **ReactJs**.
-- I always like working in 🐧️**Linux** Environment.
+- I'm aspiring 🔭️ Java Developer currently learning 🌱 **Scala**.
+- I work at Vodafone Egypt
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
@@ -48,9 +48,6 @@
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white)
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-
-
-
 ![Vim](https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim)
 ![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
