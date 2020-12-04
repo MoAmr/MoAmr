@@ -15,7 +15,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- +27 yrs. of existence-human being ツ who enjoys pizza, sports and music.
+- 🇪🇬 +27 yrs. of existence-human being ツ who enjoys pizza, sports and music.
 - I'm aspiring 🔭️ Java Developer.
 - Currently learning 🌱 **Scala**
 - I work at Vodafone Egypt. 
@@ -62,6 +62,7 @@
 ![Oracle](https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
+
 ## 🌐 **Reach out to me:** ️
 
 [<img src="https://img.shields.io/badge/LinkedIn-mohammedamrkassim?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
@@ -70,12 +71,15 @@
 [<img src="https://img.shields.io/badge/Stackoverflow-mohammed-amr?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow]
 [<img src="https://img.shields.io/badge/Twitter-@Mo_ammr?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter]
 
+
+
 <!-- ## **Badges:**
 
 </a> <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a>
 </a> <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a> -->
 
-![Made with love in 🇪🇬](https://madewithlove.now.sh/eg?text=+%F0%9F%87%AA%F0%9F%87%AC)
+
+**Made with love from 🇪🇬**
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 
 <!-- Links of Definitions -->
