@@ -16,7 +16,8 @@
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 - +27 yrs. of existence-human being ツ who enjoys pizza, sports and music.
-- I'm aspiring 🔭️ Java Developer currently learning 🌱 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white)
+- I'm aspiring 🔭️ Java Developer.
+- Currently learning 🌱 **Scala**
 - I work at Vodafone Egypt. 
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
@@ -52,7 +53,6 @@
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Vim](https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim)
-![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -75,14 +75,8 @@
 </a> <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a>
 </a> <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a> -->
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+![Made with love in 🇪🇬](https://madewithlove.now.sh/eg?text=+%F0%9F%87%AA%F0%9F%87%AC)
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
-
-<p align="center">
-
-
-<img src="https://madewithlove.now.sh/in?heart=true&colorA=%23000000&colorB=%23dc0000&template=for-the-badge️" alt="Made with love from Egypt️">
-</p>
 
 <!-- Links of Definitions -->
 
