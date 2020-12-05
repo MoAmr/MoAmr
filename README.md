@@ -18,7 +18,7 @@
 - 🇪🇬 +27 yrs. of existence-human being ツ who enjoys pizza, sports and music.
 - Currently learning 🌱 **Scala**
 - I work as Java Software Engineer at Vodafone Egypt. 
-- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
+- I'm a knowledge seeker and I love to learn new 💻 **Technologies**.
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 
