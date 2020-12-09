@@ -13,7 +13,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
 
-## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me ...**
+## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me:-**
 
 - 🇪🇬 +27 yrs. of existence-human being ツ who enjoys pizza, sports and music.
 - Currently learning 🌱 **Scala**
@@ -24,7 +24,7 @@
 
 ---
 
-## 📈 **Github Stats:**
+## 📈 **Github Stats:-**
 
 <a href="https://github.com/MoAmr">
 <img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=MoAmr&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
@@ -38,7 +38,7 @@
 <!-- ## 🏆 **Github Profile Trophy:**
  <img src="https://github-profile-trophy.vercel.app/?username=MoAmr&column=7&theme=gruvbox"/> -->
 
-## 🛠️ **Languages & Tools:**
+## 🛠️ **Languages & Tools:-**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white)
@@ -62,7 +62,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## 🌐 **Reach out to me:** ️
+## 🌐 **Reach out to me:-** ️
 
 [<img src="https://img.shields.io/badge/LinkedIn-mohammedamrkassim?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
 [<img src="https://img.shields.io/badge/Gmail-mohammed.amr.kassim@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
