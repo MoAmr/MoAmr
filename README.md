@@ -15,7 +15,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me:-**
 
-- 🇪🇬 Human being ツ who enjoys pizza, sports, and Sci-Fy tv shows.
+- 🇪🇬 Human being ツ who enjoys pizza, sports, and Sci-Fi tv shows.
 - I work as a Solutions Architect at Emkan Finance. 
 - I'm a knowledge seeker and I strive to learn new 💻 **Technologies**.
 
